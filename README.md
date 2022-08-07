@@ -1,5 +1,5 @@
 <h1 align="center">
-  Envio_de_Correo_PHP_SMTP_PHPMailer
+  Send_Mail_PHP_SMTP_PHPMailer
 </h1>
 
 <p align="center">
